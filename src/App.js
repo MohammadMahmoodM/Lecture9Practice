@@ -2,7 +2,6 @@ import React from 'react';
 import {Button, Icon, makeStyles, Grid, AppBar, IconButton, Typography, Toolbar} from '@material-ui/core';  // Import those component first before use
 import './App.css';
 import MenuIcon from '@material-ui/icons/Menu';
-import { red } from '@material-ui/core/colors';
 
 import {Pie} from 'react-chartjs-2';
 
